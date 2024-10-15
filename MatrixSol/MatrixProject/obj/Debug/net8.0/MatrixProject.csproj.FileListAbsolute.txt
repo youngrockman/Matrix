@@ -1,0 +1,11 @@
+/Users/feitanportor/dev/C#/MatrixProject/MatrixSol/MatrixProject/bin/Debug/net8.0/MatrixProject.deps.json
+/Users/feitanportor/dev/C#/MatrixProject/MatrixSol/MatrixProject/bin/Debug/net8.0/MatrixProject.dll
+/Users/feitanportor/dev/C#/MatrixProject/MatrixSol/MatrixProject/bin/Debug/net8.0/MatrixProject.pdb
+/Users/feitanportor/dev/C#/MatrixProject/MatrixSol/MatrixProject/obj/Debug/net8.0/MatrixProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/feitanportor/dev/C#/MatrixProject/MatrixSol/MatrixProject/obj/Debug/net8.0/MatrixProject.AssemblyInfoInputs.cache
+/Users/feitanportor/dev/C#/MatrixProject/MatrixSol/MatrixProject/obj/Debug/net8.0/MatrixProject.AssemblyInfo.cs
+/Users/feitanportor/dev/C#/MatrixProject/MatrixSol/MatrixProject/obj/Debug/net8.0/MatrixProject.csproj.CoreCompileInputs.cache
+/Users/feitanportor/dev/C#/MatrixProject/MatrixSol/MatrixProject/obj/Debug/net8.0/MatrixProject.dll
+/Users/feitanportor/dev/C#/MatrixProject/MatrixSol/MatrixProject/obj/Debug/net8.0/refint/MatrixProject.dll
+/Users/feitanportor/dev/C#/MatrixProject/MatrixSol/MatrixProject/obj/Debug/net8.0/MatrixProject.pdb
+/Users/feitanportor/dev/C#/MatrixProject/MatrixSol/MatrixProject/obj/Debug/net8.0/ref/MatrixProject.dll
